@@ -4,16 +4,17 @@ This is my attempt to the HashCode 2021 Qualification Round. This is my first ye
 
 ### My scores
 
-A: /
-B: /
-C: /
-D: /
-E: /
-F: /
+* A: /
+* B: /
+* C: /
+* D: /
+* E: /
+* F: /
 
 Total: /
+
 Rank: 3951
 
 ### Approach
 
-* Assigning each traffic light an interval of 1s.
+  Assigning each traffic light an interval of 1s.
