@@ -4,25 +4,26 @@ This is my attempt to the HashCode 2022 Qualification Round. The code here is re
 
 ### My scores during competition
 
-A: 33
-B: 310676
-C: 21783
-D: 50165
-E: 1367637
-F: 254572
+* A: 33
+* B: 310676
+* C: 21783
+* D: 50165
+* E: 1367637
+* F: 254572
 
 Total: 2004866
+
 Rank: 1939
 
 ### My scores after competition, in practice mode
 
-A: 33, example
-B: 310676, mode = 2, threshold = 0, useMentor = true
-B: 310676, mode = 4, threshold = 0, useMentor = true
-C: 203315, mode = 0, threshold = 0, useMentor = false
-D: 50165, mode = 0, threshold = 0, useMentor = false
-E: 1637258, mode = 1, threshold = 0, useMentor = true
-F: 475082, mode = 1, threshold = 0 , useMentor = true
+* A: 33, example
+* B: 310676, mode = 2, threshold = 0, useMentor = true
+* B: 310676, mode = 4, threshold = 0, useMentor = true
+* C: 203315, mode = 0, threshold = 0, useMentor = false
+* D: 50165, mode = 0, threshold = 0, useMentor = false
+* E: 1637258, mode = 1, threshold = 0, useMentor = true
+* F: 475082, mode = 1, threshold = 0 , useMentor = true
 
 Total: 2676529
 
